@@ -52,4 +52,4 @@ pip install -r requirements.txt
 
 ## 📝 License
 
-MIT License. See `LICENSE` file for details.
+MIT License. See `LICENSE` file for details.# ethical-python-keylogger
